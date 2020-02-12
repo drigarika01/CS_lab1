@@ -1,0 +1,14 @@
+C:\Univ\comp_sys\lab_1\Encode\bin\Debug\Encode.exe.config
+C:\Univ\comp_sys\lab_1\Encode\bin\Debug\Encode.exe
+C:\Univ\comp_sys\lab_1\Encode\bin\Debug\Encode.pdb
+C:\Univ\comp_sys\lab_1\Encode\obj\Debug\Encoder.csprojAssemblyReference.cache
+C:\Univ\comp_sys\lab_1\Encode\obj\Debug\Encoder.csproj.CoreCompileInputs.cache
+C:\Univ\comp_sys\lab_1\Encode\obj\Debug\Encode.exe
+C:\Univ\comp_sys\lab_1\Encode\obj\Debug\Encode.pdb
+D:\trash\3 lvl\6\comp_sys\lab_1\Encode\bin\Debug\Encode.exe.config
+D:\trash\3 lvl\6\comp_sys\lab_1\Encode\bin\Debug\Encode.exe
+D:\trash\3 lvl\6\comp_sys\lab_1\Encode\bin\Debug\Encode.pdb
+D:\trash\3 lvl\6\comp_sys\lab_1\Encode\obj\Debug\Encoder.csprojAssemblyReference.cache
+D:\trash\3 lvl\6\comp_sys\lab_1\Encode\obj\Debug\Encoder.csproj.CoreCompileInputs.cache
+D:\trash\3 lvl\6\comp_sys\lab_1\Encode\obj\Debug\Encode.exe
+D:\trash\3 lvl\6\comp_sys\lab_1\Encode\obj\Debug\Encode.pdb
